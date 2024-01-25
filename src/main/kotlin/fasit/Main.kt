@@ -1,3 +1,5 @@
+package fasit
+
 import kotlinx.coroutines.*
 import kotlin.random.Random
 
